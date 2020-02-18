@@ -1,0 +1,5 @@
+# Xcode Noise
+build/
+dist/
+.idea/
+DerivedData/
